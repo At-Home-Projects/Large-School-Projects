@@ -21,3 +21,12 @@ Circuitry & code simulator:
 https://wokwi.com/projects/362463030462169089   (RGBs dont work cuz of software limmitations)
 
 ![image](https://user-images.githubusercontent.com/120524043/235759790-8fb04305-82cf-4d1b-a93c-38fecb09c32b.png)
+
+
+# American Acadamy 2023 Battle Bots
+
+Battle bot made of various meatle pices, lazer cut wood, and an arduino Uno. Team name: Stingrays
+
+Awards:
+Second Place (first place almost cheated, they have changed the rules for the coming years.)
+
